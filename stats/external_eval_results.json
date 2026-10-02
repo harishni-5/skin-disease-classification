@@ -1,0 +1,365 @@
+{
+  "n_total_images": 51,
+  "n_with_inferred_label": 51,
+  "n_correct": 44,
+  "accuracy": 0.8627450980392157,
+  "results": [
+    {
+      "path": "../dataset/randomm/images/Acne_261.jpg",
+      "name": "Acne_261",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/Acne_261_json/img.png",
+      "name": "Acne_261_json",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/Rosacea_304.jpg",
+      "name": "Rosacea_304",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class4_Rosacea",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/Rosacea_304_json/img.png",
+      "name": "Rosacea_304_json",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class4_Rosacea",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/acne1.jpg",
+      "name": "acne1",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/acne1_json/img.png",
+      "name": "acne1_json",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class3_Eczema",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/acne2.jpeg",
+      "name": "acne2",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/acne2_json/img.png",
+      "name": "acne2_json",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/acne36.png",
+      "name": "acne36",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/acne36_json/img.png",
+      "name": "acne36_json",
+      "inferred_true_class": "class1_acne",
+      "predicted_class": "class1_acne",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_Sp.jpg",
+      "name": "dark_Sp",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_Sp_json/img.png",
+      "name": "dark_Sp_json",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spoott.jpg",
+      "name": "dark_spoott",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spoott_json/img.png",
+      "name": "dark_spoott_json",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spot2.jpeg",
+      "name": "dark_spot2",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spot2_json/img.png",
+      "name": "dark_spot2_json",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spot_1.jpeg",
+      "name": "dark_spot_1",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spot_1_json/img.png",
+      "name": "dark_spot_1_json",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spot_3.jpg",
+      "name": "dark_spot_3",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/dark_spot_3_json/img.png",
+      "name": "dark_spot_3_json",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/darkk_json/img.png",
+      "name": "darkk_json",
+      "inferred_true_class": "class5_dark_spots",
+      "predicted_class": "class5_dark_spots",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/eczema.jpeg",
+      "name": "eczema",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class3_Eczema",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/eczema1.jpeg",
+      "name": "eczema1",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class3_Eczema",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/eczema1_json/img.png",
+      "name": "eczema1_json",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class3_Eczema",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/eczema2.jpeg",
+      "name": "eczema2",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class4_Rosacea",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/eczema2_json/img.png",
+      "name": "eczema2_json",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class4_Rosacea",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/eczema_json/img.png",
+      "name": "eczema_json",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class3_Eczema",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/eczemaa.jpeg",
+      "name": "eczemaa",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class3_Eczema",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/eczemaa_json/img.png",
+      "name": "eczemaa_json",
+      "inferred_true_class": "class3_Eczema",
+      "predicted_class": "class3_Eczema",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/nor.jpg",
+      "name": "nor",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/nor_json/img.png",
+      "name": "nor_json",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/normal1.jpeg",
+      "name": "normal1",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/normal1_json/img.png",
+      "name": "normal1_json",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/normal2.jpeg",
+      "name": "normal2",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/normal2_json/img.png",
+      "name": "normal2_json",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/norr2.jpg",
+      "name": "norr2",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/norr2_json/img.png",
+      "name": "norr2_json",
+      "inferred_true_class": "class0_normal",
+      "predicted_class": "class0_normal",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/rosacea-60.jpeg",
+      "name": "rosacea-60",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class4_Rosacea",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/rosacea-60_json/img.png",
+      "name": "rosacea-60_json",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class4_Rosacea",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/rosacea1.jpeg",
+      "name": "rosacea1",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class1_acne",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/rosacea1_json/img.png",
+      "name": "rosacea1_json",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class1_acne",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/rosacea2.jpeg",
+      "name": "rosacea2",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class0_normal",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/rosacea2_json/img.png",
+      "name": "rosacea2_json",
+      "inferred_true_class": "class4_Rosacea",
+      "predicted_class": "class0_normal",
+      "correct": false
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkle189.png",
+      "name": "wrinkle189",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkle189_json/img.png",
+      "name": "wrinkle189_json",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkles1.jpeg",
+      "name": "wrinkles1",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkles1_json/img.png",
+      "name": "wrinkles1_json",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkles2.jpeg",
+      "name": "wrinkles2",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkles20.png",
+      "name": "wrinkles20",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkles20_json/img.png",
+      "name": "wrinkles20_json",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    },
+    {
+      "path": "../dataset/randomm/images/wrinkles2_json/img.png",
+      "name": "wrinkles2_json",
+      "inferred_true_class": "class2_wrinkles",
+      "predicted_class": "class2_wrinkles",
+      "correct": true
+    }
+  ]
+}

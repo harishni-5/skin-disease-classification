@@ -1,0 +1,217 @@
+{
+  "n_images": 26,
+  "model_iou_mean": 0.3382673664703011,
+  "model_iou_std": 0.12225218261713879,
+  "center_baseline_iou_mean": 0.2984311399322188,
+  "random_baseline_iou_mean": 0.13309045674784528,
+  "per_image": [
+    {
+      "name": "Acne_261",
+      "model_iou": 0.381419793639139,
+      "center_baseline_iou": 0.44764587525150906,
+      "random_baseline_iou": 0.1913243992915149,
+      "gt_mask_area_frac": 0.4669563137755102,
+      "pred_mask_area_frac": 0.24547592474489796
+    },
+    {
+      "name": "Rosacea_304",
+      "model_iou": 0.4999161214561315,
+      "center_baseline_iou": 0.302974691647817,
+      "random_baseline_iou": 0.2191290718277225,
+      "gt_mask_area_frac": 0.3584582270408163,
+      "pred_mask_area_frac": 0.354312818877551
+    },
+    {
+      "name": "acne1",
+      "model_iou": 0.16492870553610392,
+      "center_baseline_iou": 0.21167293157107636,
+      "random_baseline_iou": 0.07830674154663157,
+      "gt_mask_area_frac": 0.10133696074621065,
+      "pred_mask_area_frac": 0.2555577147298873
+    },
+    {
+      "name": "acne2",
+      "model_iou": 0.37460108879294163,
+      "center_baseline_iou": 0.33033724558015154,
+      "random_baseline_iou": 0.07189589997092177,
+      "gt_mask_area_frac": 0.10867585333016552,
+      "pred_mask_area_frac": 0.18127821335234023
+    },
+    {
+      "name": "acne36",
+      "model_iou": 0.351451973194341,
+      "center_baseline_iou": 0.2702956989247312,
+      "random_baseline_iou": 0.09675818723122726,
+      "gt_mask_area_frac": 0.1267139668367347,
+      "pred_mask_area_frac": 0.2711854272959184
+    },
+    {
+      "name": "dark_Sp",
+      "model_iou": 0.3061150862846492,
+      "center_baseline_iou": 0.28857076619914224,
+      "random_baseline_iou": 0.11998759818106655,
+      "gt_mask_area_frac": 0.19310028698979592,
+      "pred_mask_area_frac": 0.23981584821428573
+    },
+    {
+      "name": "dark_spoott",
+      "model_iou": 0.2925318343466789,
+      "center_baseline_iou": 0.3431482244861904,
+      "random_baseline_iou": 0.12528621204579393,
+      "gt_mask_area_frac": 0.20455994897959184,
+      "pred_mask_area_frac": 0.2445392219387755
+    },
+    {
+      "name": "dark_spot2",
+      "model_iou": 0.539205025975595,
+      "center_baseline_iou": 0.4924960917144346,
+      "random_baseline_iou": 0.13008238699621466,
+      "gt_mask_area_frac": 0.31796543209876543,
+      "pred_mask_area_frac": 0.1853432098765432
+    },
+    {
+      "name": "dark_spot_1",
+      "model_iou": 0.5392730191491801,
+      "center_baseline_iou": 0.15343243896543388,
+      "random_baseline_iou": 0.07015152729896576,
+      "gt_mask_area_frac": 0.13605563835072032,
+      "pred_mask_area_frac": 0.13069051167411824
+    },
+    {
+      "name": "dark_spot_3",
+      "model_iou": 0.5352950222996873,
+      "center_baseline_iou": 0.5409662808253649,
+      "random_baseline_iou": 0.16695299078556927,
+      "gt_mask_area_frac": 0.3602319834183674,
+      "pred_mask_area_frac": 0.23664700255102042
+    },
+    {
+      "name": "darkk",
+      "model_iou": 0.2900275020925505,
+      "center_baseline_iou": 0.3277632618338701,
+      "random_baseline_iou": 0.1204550176605028,
+      "gt_mask_area_frac": 0.1854870854591837,
+      "pred_mask_area_frac": 0.2445392219387755
+    },
+    {
+      "name": "eczema",
+      "model_iou": 0.29292343387471,
+      "center_baseline_iou": 0.07823599265896578,
+      "random_baseline_iou": 0.10669036220320131,
+      "gt_mask_area_frac": 0.1780069694723479,
+      "pred_mask_area_frac": 0.2113164464211163
+    },
+    {
+      "name": "eczema1",
+      "model_iou": 0.4448192771084337,
+      "center_baseline_iou": 0.3428591841108809,
+      "random_baseline_iou": 0.07419122933141625,
+      "gt_mask_area_frac": 0.12293650793650794,
+      "pred_mask_area_frac": 0.174484126984127
+    },
+    {
+      "name": "eczema2",
+      "model_iou": 0.22372915410890096,
+      "center_baseline_iou": 0.6720791858977924,
+      "random_baseline_iou": 0.10806019002591262,
+      "gt_mask_area_frac": 0.35427719821162446,
+      "pred_mask_area_frac": 0.1298161947342275
+    },
+    {
+      "name": "eczemaa",
+      "model_iou": 0.49553194977981824,
+      "center_baseline_iou": 0.5672148392299871,
+      "random_baseline_iou": 0.22940182624224426,
+      "gt_mask_area_frac": 0.4075947504708098,
+      "pred_mask_area_frac": 0.3439030131826742
+    },
+    {
+      "name": "nor",
+      "model_iou": 0.3237819718051155,
+      "center_baseline_iou": 0.2533185368560331,
+      "random_baseline_iou": 0.16252621390546862,
+      "gt_mask_area_frac": 0.3352200255102041,
+      "pred_mask_area_frac": 0.2393176020408163
+    },
+    {
+      "name": "normal1",
+      "model_iou": 0.4676941832114246,
+      "center_baseline_iou": 0.41459808575208157,
+      "random_baseline_iou": 0.08096774193548387,
+      "gt_mask_area_frac": 0.11180555555555556,
+      "pred_mask_area_frac": 0.2226190476190476
+    },
+    {
+      "name": "normal2",
+      "model_iou": 0.353908752488962,
+      "center_baseline_iou": 0.28941361668634397,
+      "random_baseline_iou": 0.06369641412779725,
+      "gt_mask_area_frac": 0.08147912271623611,
+      "pred_mask_area_frac": 0.22976953389324523
+    },
+    {
+      "name": "norr2",
+      "model_iou": 0.2928458931895194,
+      "center_baseline_iou": 0.32253456221198157,
+      "random_baseline_iou": 0.15135433472021737,
+      "gt_mask_area_frac": 0.3219666772959184,
+      "pred_mask_area_frac": 0.21791294642857142
+    },
+    {
+      "name": "rosacea-60",
+      "model_iou": 0.2940514586415113,
+      "center_baseline_iou": 0.2618622042795361,
+      "random_baseline_iou": 0.2247597035732629,
+      "gt_mask_area_frac": 0.4464726182394207,
+      "pred_mask_area_frac": 0.30826261597646526
+    },
+    {
+      "name": "rosacea1",
+      "model_iou": 0.24961013645224173,
+      "center_baseline_iou": 0.22,
+      "random_baseline_iou": 0.06781926000167042,
+      "gt_mask_area_frac": 0.1130952380952381,
+      "pred_mask_area_frac": 0.14128968253968255
+    },
+    {
+      "name": "rosacea2",
+      "model_iou": 0.04805352798053528,
+      "center_baseline_iou": 0.04477897556930535,
+      "random_baseline_iou": 0.04892871858261228,
+      "gt_mask_area_frac": 0.08141941647096286,
+      "pred_mask_area_frac": 0.12432830474067587
+    },
+    {
+      "name": "wrinkle189",
+      "model_iou": 0.178326125667769,
+      "center_baseline_iou": 0.11361016893338163,
+      "random_baseline_iou": 0.21920825935424476,
+      "gt_mask_area_frac": 0.42396763392857145,
+      "pred_mask_area_frac": 0.31455277423469385
+    },
+    {
+      "name": "wrinkles1",
+      "model_iou": 0.2763925729442971,
+      "center_baseline_iou": 0.08979113061904041,
+      "random_baseline_iou": 0.20058680406469157,
+      "gt_mask_area_frac": 0.3290809736711376,
+      "pred_mask_area_frac": 0.34024838549428715
+    },
+    {
+      "name": "wrinkles2",
+      "model_iou": 0.34034267912772587,
+      "center_baseline_iou": 0.20871076469349062,
+      "random_baseline_iou": 0.11319336304569619,
+      "gt_mask_area_frac": 0.21039809863339276,
+      "pred_mask_area_frac": 0.1986333927510398
+    },
+    {
+      "name": "wrinkles20",
+      "model_iou": 0.2381752390798656,
+      "center_baseline_iou": 0.17089888373914747,
+      "random_baseline_iou": 0.21863742149392673,
+      "gt_mask_area_frac": 0.4649633290816326,
+      "pred_mask_area_frac": 0.298828125
+    }
+  ]
+}

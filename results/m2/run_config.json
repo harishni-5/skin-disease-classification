@@ -1,0 +1,25 @@
+{
+  "stage": "m2",
+  "cfg": {
+    "augment": true,
+    "class_weight": false,
+    "oversample": false,
+    "use_caw": false,
+    "use_contrastive": false,
+    "use_gabor": false
+  },
+  "args": {
+    "stage": "m2",
+    "data_root": "../dataset/SKIN_CLEAN_DEDUP",
+    "out_dir": "../results/m2",
+    "epochs": 20,
+    "patience": 5,
+    "batch_size": 32,
+    "lr": 0.0001,
+    "seed": 42,
+    "num_workers": 2,
+    "lambda_contrast": 0.2,
+    "lambda_gabor": 0.3,
+    "max_batches_per_epoch": 0
+  }
+}

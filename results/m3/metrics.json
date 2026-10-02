@@ -1,0 +1,154 @@
+{
+  "accuracy": 0.9492563429571304,
+  "macro_f1": 0.9486655039341504,
+  "weighted_f1": 0.9492131535862098,
+  "per_class": {
+    "class0_normal": {
+      "precision": 0.9657142857142857,
+      "recall": 0.9548022598870056,
+      "f1": 0.9602272727272727,
+      "support": 177
+    },
+    "class1_acne": {
+      "precision": 0.9107142857142857,
+      "recall": 0.9,
+      "f1": 0.9053254437869822,
+      "support": 170
+    },
+    "class2_wrinkles": {
+      "precision": 0.9615384615384616,
+      "recall": 0.974025974025974,
+      "f1": 0.967741935483871,
+      "support": 154
+    },
+    "class3_Eczema": {
+      "precision": 0.9627329192546584,
+      "recall": 0.9480122324159022,
+      "f1": 0.9553158705701078,
+      "support": 327
+    },
+    "class4_Rosacea": {
+      "precision": 0.9341317365269461,
+      "recall": 0.9512195121951219,
+      "f1": 0.9425981873111783,
+      "support": 164
+    },
+    "class5_dark_spots": {
+      "precision": 0.9483870967741935,
+      "recall": 0.9735099337748344,
+      "f1": 0.9607843137254902,
+      "support": 151
+    }
+  },
+  "confusion_matrix": [
+    [
+      169,
+      2,
+      3,
+      3,
+      0,
+      0
+    ],
+    [
+      3,
+      153,
+      2,
+      5,
+      3,
+      4
+    ],
+    [
+      1,
+      0,
+      150,
+      2,
+      0,
+      1
+    ],
+    [
+      0,
+      7,
+      0,
+      310,
+      8,
+      2
+    ],
+    [
+      0,
+      5,
+      0,
+      2,
+      156,
+      1
+    ],
+    [
+      2,
+      1,
+      1,
+      0,
+      0,
+      147
+    ]
+  ],
+  "confusion_matrix_labels": [
+    "class0_normal",
+    "class1_acne",
+    "class2_wrinkles",
+    "class3_Eczema",
+    "class4_Rosacea",
+    "class5_dark_spots"
+  ],
+  "n_correct": 1085,
+  "n_total": 1143,
+  "sklearn_classification_report": {
+    "class0_normal": {
+      "precision": 0.9657142857142857,
+      "recall": 0.9548022598870056,
+      "f1-score": 0.9602272727272727,
+      "support": 177.0
+    },
+    "class1_acne": {
+      "precision": 0.9107142857142857,
+      "recall": 0.9,
+      "f1-score": 0.9053254437869822,
+      "support": 170.0
+    },
+    "class2_wrinkles": {
+      "precision": 0.9615384615384616,
+      "recall": 0.974025974025974,
+      "f1-score": 0.967741935483871,
+      "support": 154.0
+    },
+    "class3_Eczema": {
+      "precision": 0.9627329192546584,
+      "recall": 0.9480122324159022,
+      "f1-score": 0.9553158705701078,
+      "support": 327.0
+    },
+    "class4_Rosacea": {
+      "precision": 0.9341317365269461,
+      "recall": 0.9512195121951219,
+      "f1-score": 0.9425981873111783,
+      "support": 164.0
+    },
+    "class5_dark_spots": {
+      "precision": 0.9483870967741935,
+      "recall": 0.9735099337748344,
+      "f1-score": 0.9607843137254902,
+      "support": 151.0
+    },
+    "accuracy": 0.9492563429571304,
+    "macro avg": {
+      "precision": 0.9472031309204718,
+      "recall": 0.9502616520498063,
+      "f1-score": 0.9486655039341504,
+      "support": 1143.0
+    },
+    "weighted avg": {
+      "precision": 0.9492979013292877,
+      "recall": 0.9492563429571304,
+      "f1-score": 0.9492131535862098,
+      "support": 1143.0
+    }
+  }
+}
